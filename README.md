@@ -21,6 +21,9 @@ Business Questions:
 5. Which top performing states drive the bulk of regional sales & profitability?
 6. How do profit margin vary across different product SKUs and which products shows margin compression?
 
+![Uploading Excel Dashboard.png…]()
+
+
 
 Data Preprocessing & Pipeline (Excel)
 Data Cleaning: Cleaned raw data by identifying missing values, correcting data types, standardizing date formats, and eliminating duplicate records.
