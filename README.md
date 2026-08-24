@@ -1,5 +1,13 @@
 # Sales-Performance-Regional-Analysis-Dashboard
-End to end sales &amp; profitability Analysis: Automated data cleaning, lookup integrations , calculated metrics , and interactive dashboards to uncover regional revenue trends and profit margins.
+
+End to end sales & profitability Analysis:
+Automated data cleaning, lookup integrations , calculated metrics , and interactive dashboards to uncover regional revenue trends and profit margins.
+
+[Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Domain-Sales_%26_Regional_Analytics-blue?style=for-the-badge)
+![ETL Process](https://img.shields.io/badge/ETL-Data_Cleaning_%26_Transform-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 📌 Project Overview
 This project presents an End-to-End Sales Performance & Regional Analysis built in Microsoft Excel to track business metrics, customer purchasing patterns, and regional profitability.
