@@ -21,7 +21,7 @@ Business Questions:
 5. Which top performing states drive the bulk of regional sales & profitability?
 6. How do profit margin vary across different product SKUs and which products shows margin compression?
 
-![Uploading Screenshot 2026-08-24 121321.png…]()
+Excel Dashboard.png
 
 
 
