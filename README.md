@@ -21,8 +21,11 @@ Business Questions:
 5. Which top performing states drive the bulk of regional sales & profitability?
 6. How do profit margin vary across different product SKUs and which products shows margin compression?
 
-![Uploading Excel Dashboard.png…]()
+![Uploading Screenshot 2026-08-24 121321.png…]()
 
+
+
+<img width="1715" height="642" alt="image" src="https://github.com/user-attachments/assets/4d554de2-7918-4b49-a4b0-bde4fb4e4e9f" />
 
 
 Data Preprocessing & Pipeline (Excel)
