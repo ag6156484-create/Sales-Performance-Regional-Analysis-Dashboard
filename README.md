@@ -22,6 +22,7 @@ Business Questions:
 6. How do profit margin vary across different product SKUs and which products shows margin compression?
 
 
+<img width="1772" height="652" alt="Screenshot 2026-08-24 122246" src="https://github.com/user-attachments/assets/266f483a-e8ef-4225-986d-dcdb8c3e4c3a" />
 
 
 <img width="1715" height="642" alt="image" src="https://github.com/user-attachments/assets/4d554de2-7918-4b49-a4b0-bde4fb4e4e9f" />
